@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bellamkonda Giri Raju</h1>
-<h3 align="center">I am a Master of Computer Applications (MCA) student at [Your University] with a passion for software development and innovative technologies.</h3>
+<h3 align="center">I am a Master of Computer Applications (MCA) student at Osmania University with a passion for software development and innovative technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzM20wZ3RrbmFuNmtkaWp2OHJqbWo1b2JhMXExbjVpeXFscjFubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 📫 How to reach me **bk.giriraju18@gmail.com**
